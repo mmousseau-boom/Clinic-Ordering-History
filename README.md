@@ -1,3 +1,11 @@
+# 📊 JMS Order Index
+
+![Data Date](https://img.shields.io/badge/Data-2026--05--24-blue)
+![Weeks](https://img.shields.io/badge/Weeks-26--38-green)
+![Revenue](https://img.shields.io/badge/Revenue-%242.95M-brightgreen)
+![Clinics](https://img.shields.io/badge/Clinics-564-orange)
+![Orders](https://img.shields.io/badge/Orders-16%2C232-lightgrey)
+
 [README.md](https://github.com/user-attachments/files/28351776/README.md)
 # Metabase Bulk Order Index
 **Data as of:** 2026-05-24 · **Weeks covered:** 26–38 · **Source:** BoomRx + Bulk
