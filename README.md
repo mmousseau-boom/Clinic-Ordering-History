@@ -14,7 +14,15 @@
 |---|---:|---:|
 | Tirzepatide Compound | $616,454 | 1,486 |
 ...
+## 📈 Revenue by Week
 
+```mermaid
+xychart-beta
+    title "Weekly Revenue ($)"
+    x-axis [Wk26, Wk27, Wk28, Wk29, Wk30, Wk31, Wk32, Wk33, Wk34, Wk35, Wk36, Wk37, Wk38]
+    y-axis "Revenue ($)" 0 --> 550000
+    bar [5369, 238919, 212569, 244130, 274233, 249842, 506050, 212013, 239233, 185600, 195575, 185293, 198012]
+```
 </details>
 
 [README.md](https://github.com/user-attachments/files/28351776/README.md)
