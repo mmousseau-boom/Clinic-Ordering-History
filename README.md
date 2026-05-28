@@ -6,6 +6,17 @@
 ![Clinics](https://img.shields.io/badge/Clinics-564-orange)
 ![Orders](https://img.shields.io/badge/Orders-16%2C232-lightgrey)
 
+<details>
+<summary>📂 View Full Drug Catalog</summary>
+
+### GLP-1 / Weight Loss
+| Drug | Revenue | Orders |
+|---|---:|---:|
+| Tirzepatide Compound | $616,454 | 1,486 |
+...
+
+</details>
+
 [README.md](https://github.com/user-attachments/files/28351776/README.md)
 # Metabase Bulk Order Index
 **Data as of:** 2026-05-24 · **Weeks covered:** 26–38 · **Source:** BoomRx + Bulk
