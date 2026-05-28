@@ -58,6 +58,17 @@ xychart-beta
 | Order sources | BoomRx, Bulk |
 | Statuses | shipped, received, delivered, completed |
 
+## 💊 Revenue by Category
+
+```mermaid
+pie title Revenue by Drug Category
+    "GLP-1 / Weight Loss" : 2200526
+    "Peptides" : 593970
+    "Hormones" : 54099
+    "Other" : 83736
+    "Vitamins / Supplements" : 8384
+    "Supplies" : 6123
+```
 ---
 
 ## Revenue by Rep
@@ -82,17 +93,6 @@ xychart-beta
 | JMS - Jonathan Izquierdo | Testosterone Cypionate - MCT | $1,155 |
 | JMS - Ashlyn Smith | Tirzepatide / Glycine | $1,275 |
 
-## 💊 Revenue by Category
-
-```mermaid
-pie title Revenue by Drug Category
-    "GLP-1 / Weight Loss" : 2200526
-    "Peptides" : 593970
-    "Hormones" : 54099
-    "Other" : 83736
-    "Vitamins / Supplements" : 8384
-    "Supplies" : 6123
-```
 ---
 
 ## Revenue by Week
