@@ -15,7 +15,18 @@
 | Tirzepatide Compound | $616,454 | 1,486 |
 ...
 ## 📈 Revenue by Week
+<div align="center">
 
+# 📊 JMS Order Index
+### Weeks 26–38 · Data as of 2026-05-24
+
+![Data Date](https://img.shields.io/badge/Data-2026--05--24-blue)
+![Revenue](https://img.shields.io/badge/Revenue-%242.95M-brightgreen)
+![Clinics](https://img.shields.io/badge/Clinics-564-orange)
+
+</div>
+
+---
 ```mermaid
 xychart-beta
     title "Weekly Revenue ($)"
